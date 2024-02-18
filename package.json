@@ -1,0 +1,29 @@
+{
+  "name": "moss-theme",
+  "displayName": "Moss Theme",
+  "description": "Moss Theme for VS Code",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "moss",
+    "green",
+    "vitesse",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moss Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moss Theme-color-theme.json"
+      }
+    ]
+  }
+}
