@@ -1,9 +1,15 @@
 {
+  "publisher": "AntonLilleby",
   "name": "moss-theme",
   "displayName": "Moss Theme",
   "description": "Moss Theme for VS Code",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/an2n/vscode-theme-moss"
+  },
+  "icon": "icon.png",
   "keywords": [
     "theme",
     "moss",
