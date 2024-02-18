@@ -6,7 +6,6 @@
 
 ![Moss Theme](https://raw.githubusercontent.com/an2n/semver-auto/b1939e933cc7a9c68bace78492ca6cc7300cf838/moss-theme.png)
 
-The Dark Moss theme for Visual Studio Code is inspired of the Vitesse theme by Anfu.
 ## Thanks
 
 This project is based on [vscode-theme-vitesse](antfu/vscode-theme-vitesse: 🏕 Vitesse theme for VS Code).
