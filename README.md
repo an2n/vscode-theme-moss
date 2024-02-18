@@ -1,7 +1,5 @@
-# Moss Theme for VS Code
-
-
 <p align="center">
+# Moss Theme for VS Code
 <a href="https://marketplace.visualstudio.com/items?itemName=antonlilleby.moss-theme" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antonlilleby.moss-theme.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
